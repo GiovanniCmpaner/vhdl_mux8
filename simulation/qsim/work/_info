@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Aluno/Desktop/vhdl_mux8/simulation/qsim
+vvhdl_mux8
+!s110 1583003490
+!i10b 1
+!s100 lQb`6hiKSM;DziF@54n9b2
+IzzW1zbR;1afEX1glEi_<Z2
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1583003480
+8vhdl_mux8.vo
+Fvhdl_mux8.vo
+L0 32
+Z2 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1583003490.193000
+!s107 vhdl_mux8.vo|
+!s90 -work|work|vhdl_mux8.vo|
+!i113 1
+Z3 o-work work
+vvhdl_mux8_vlg_check_tst
+Z4 !s110 1583003493
+!i10b 1
+!s100 cL@4MeW]QCJR:eebi[a0N0
+IJ_<^VSl[2BZceXmBX?]GX1
+R1
+R0
+Z5 w1583003475
+Z6 8Waveform.vwf.vt
+Z7 FWaveform.vwf.vt
+L0 60
+R2
+r1
+!s85 0
+31
+Z8 !s108 1583003493.503000
+Z9 !s107 Waveform.vwf.vt|
+Z10 !s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R3
+vvhdl_mux8_vlg_sample_tst
+R4
+!i10b 1
+!s100 Ejo@<5gQmQAbK9;3QSV0>3
+IO]O@Uo:HX5iPV=W_PZGWN3
+R1
+R0
+R5
+R6
+R7
+L0 30
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R3
+vvhdl_mux8_vlg_vec_tst
+R4
+!i10b 1
+!s100 P9YU<M_;APj@?0OE:_f4T1
+IkJozmL<>d^6Rj[ZbPE<5K3
+R1
+R0
+R5
+R6
+R7
+L0 155
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R3
